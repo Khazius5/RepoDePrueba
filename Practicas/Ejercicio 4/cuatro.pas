@@ -9,7 +9,7 @@ determinado.
 ii. Listar en pantalla los empleados de a uno por línea.
 iii. Listar en pantalla empleados mayores de 70 años, próximos a jubilarse.
 NOTA: El nombre del archivo a crear o utilizar debe ser proporcionado por el usuario una
-única vez.
+única vez.a
 }
 
 Program cuatro;
